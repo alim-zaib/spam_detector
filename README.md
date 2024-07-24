@@ -1,7 +1,5 @@
 # Spam Detector
 
-This project is a Spam Detector developed during my first year as a project for my Data Science course unit.
-
 ## Description
 
 The Spam Detector reads a dataset of spam and ham messages, cleans the data, and applies a Naive Bayes algorithm using word frequencies and probabilities. It also visualises the data using a word cloud.
