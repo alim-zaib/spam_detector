@@ -1,4 +1,4 @@
-# SpamDetector
+# Spam Detector
 
 This project is a Spam Detector developed during my first year as a project for my Data Science course unit.
 
